@@ -1,0 +1,23 @@
+{
+    "sessionState": {
+      "intent": {
+        "name": "AudioIntent",
+        "slots": {
+          "text": {
+            "value": {
+              "interpretedValue": "Welcome to the world of innovation! Technology is transforming our daily lives. From self-driving cars to voice assistants, the future is here. Stay curious, embrace change, and keep learning!",
+              "originalValue": "Welcome to the world of innovation! Technology is transforming our daily lives. From self-driving cars to voice assistants, the future is here. Stay curious, embrace change, and keep learning!"
+            }
+          },
+          "language": {
+            "value": {
+              "interpretedValue": "English",
+              "originalValue": "English"
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  
